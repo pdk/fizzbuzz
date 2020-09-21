@@ -5,8 +5,8 @@ application.
 
 Here is a simplified diagram of what's happening:
 
-                   +--> fizzer ----+
-                   |               |
-for first..last ---+--> buzzer ----+--> results
-                   |               |
-                   +--> numberer --+
+                       +--> fizzer ----+
+                       |               |
+    for first..last ---+--> buzzer ----+--> results
+                       |               |
+                       +--> numberer --+
